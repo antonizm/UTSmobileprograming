@@ -1,0 +1,7 @@
+#Fri Nov 04 21:45:40 ICT 2016
+base.0=D\:\\Project Android\\Kuliah\\utsmobprog\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4a3ddf4a0ff25292e740b6d6a0b17cc224d4d706
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Project Android\\Kuliah\\utsmobprog\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b5600228f851f2ff2871028c5279878b163f9415\\classes.dex
+base.1=D\:\\Project Android\\Kuliah\\utsmobprog\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b5600228f851f2ff2871028c5279878b163f9415
+file.0=D\:\\Project Android\\Kuliah\\utsmobprog\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4a3ddf4a0ff25292e740b6d6a0b17cc224d4d706\\classes.dex
